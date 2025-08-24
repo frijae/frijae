@@ -14,19 +14,9 @@
 
 ---
 
-### 🚀 Current Projects
-- 🧮 **BMI Calculator** – simple Python project to calculate Body Mass Index.  
-- 🔗 **Phishing Link Checker** – Python program to detect suspicious/malicious URLs.  
-- 🛡️ Exploring **basic cybersecurity tools** (system cleaner, antivirus, keylogger detector).  
-
----
-
 ### 📚 Goals for 2025
 - Build more projects in Python and share them here.  
 - Strengthen problem-solving with algorithms & data structures.  
 - Contribute to open-source projects.  
 - Explore internships or research in **AI & cybersecurity**.  
 
----
-
-⭐️ *Thanks for visiting my profile! Always open to learning and collaborating.*  
