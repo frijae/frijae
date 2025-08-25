@@ -1,3 +1,8 @@
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=frijae&style=flat-square&color=blue" alt=""/></div>
+
+---
+
 🎓 Pursuing **Bachelor's degree in Computer Science**.  
 💻 Interested in **Cybersecurity, AI, and Software Development**.  
 
