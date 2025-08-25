@@ -1,6 +1,6 @@
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=frijae&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=frijae&theme=dark&hide_border=true)<br/>
 
 ---
 
@@ -12,7 +12,4 @@
 # 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-
 
