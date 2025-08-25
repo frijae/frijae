@@ -1,4 +1,4 @@
-🎓 Currently pursuing **Bachelor's degree in Computer Science**.  
+🎓 Pursuing **Bachelor's degree in Computer Science**.  
 💻 Interested in **Cybersecurity, AI, and Software Development**.  
 
 ---
