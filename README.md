@@ -1,9 +1,3 @@
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=frijae&theme=dark&hide_border=true)<br/>
-
----
-
 🎓 Currently pursuing **Bachelor's degree in Computer Science**.  
 💻 Interested in **Cybersecurity, AI, and Software Development**.  
 
