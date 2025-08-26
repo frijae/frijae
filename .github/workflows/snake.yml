@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # once per day
+    - cron: "0 0 * * *"  # every day at midnight
   workflow_dispatch:
+
+permissions:
+  contents: write   # 👈 this gives github-actions[bot] permission to push
 
 jobs:
   build:
@@ -12,10 +15,11 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: frijae
+          github_user_name: frijae   # 👈 your username
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+
       - name: Upload to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
