@@ -1,6 +1,6 @@
 
  <div align="left"><img src="https://komarev.com/ghpvc/?username=frijae&style=flat-square&color=gray" alt=""/></div>
-
+ 
 ---
 
 Pursuing **Bachelor's degree in Computer Science**.  
