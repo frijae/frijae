@@ -12,6 +12,5 @@ Pursuing **Bachelor's degree in Computer Science**.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=808080)
 ![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=postgresql&logoColor=808080)
 ![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=openjdk&logoColor=808080)
-![JavaScript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=808080)
 ![CSS](https://img.shields.io/badge/css-3670A0?style=for-the-badge&logo=css3&logoColor=808080)
 ![HTML](https://img.shields.io/badge/html-3670A0?style=for-the-badge&logo=html5&logoColor=808080)
